@@ -1,3 +1,7 @@
+# 🧠 Social Network Ads Purchase Prediction using K-Nearest Neighbors
+
+---
+
 ## 📌 Project Overview
 
 This project demonstrates the implementation of a **classification model** using the K-Nearest Neighbors algorithm on the Social Network Ads dataset.
