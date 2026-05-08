@@ -62,10 +62,10 @@ The objective is to predict whether a user will purchase a product based on feat
 
 ### Steps:
 
-1. Split data into training and testing sets
-2. Applied **Standardization** using `StandardScaler`
-3. Trained KNN model with different K values
-4. Selected optimal K based on performance
+1. Split data into training and testing sets.
+2. Applied **Standardization** using `StandardScaler`.
+3. Trained KNN model with different K values.
+4. Selected optimal K based on performance.
 
 ---
 
